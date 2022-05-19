@@ -1,1 +1,1 @@
-# homework_cycles
+A simple command-line application.
